@@ -130,7 +130,7 @@ Toronto/
             Ward_25_Scarborough-Rouge_Park.pdf
     ward_centroids.csv              # ward centroids with Google Maps links
 ```
-**Sample output:**[Ward 07 — Humber River-Black Creek](Ward_07_Humber_River-Black_Creek.pdf)
+**Sample output:**[Ward 07 — Humber River-Black Creek](https://github.com/Mi9320/toronto-urban-data-pipeline/blob/main/Ward_07_Humber_River-Black_C.pdf)
 ---
 
 ## Background

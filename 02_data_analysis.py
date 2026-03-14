@@ -3,8 +3,7 @@
 # Script 02 — Cursor-Based Data Analysis and Geometry Extraction
 #
 # Author  : Ibrahim Mirza
-# Program : Environmental Management and Assessment, Algonquin College
-# Date    : 2025
+# Date    : 2026
 #
 # Description:
 #   Performs row-level data operations on Toronto road and ward datasets

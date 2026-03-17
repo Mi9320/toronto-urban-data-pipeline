@@ -144,5 +144,5 @@ The Environmental Management background provides direct relevance to Conservatio
 
 ## Contact
 
-Open to GIS Technician and Junior GIS Analyst opportunities in Ontario.  
+Open to GIS Technician and Junior GIS Analyst opportunities.  
 Connect on [LinkedIn](https://www.linkedin.com/in/ibrahim-mirza3/) or reach out via GitHub.
